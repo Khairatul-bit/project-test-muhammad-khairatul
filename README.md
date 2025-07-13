@@ -1,7 +1,4 @@
 # Suitmedia Ideas Page
-
-Implementasi halaman list ideas dengan Next.js sesuai dengan desain yang diberikan.
-
 ## Fitur
 
 1. **Header**
@@ -33,21 +30,6 @@ Implementasi halaman list ideas dengan Next.js sesuai dengan desain yang diberik
 - Axios untuk fetching data
 - React Intersection Observer untuk lazy loading
 
-## Cara Menjalankan
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Jalankan development server:
-   ```bash
-   npm run dev
-   ```
-
-3. Buka [http://localhost:3000](http://localhost:3000) di browser.
-
-## Build untuk Production
 
 ```bash
 npm run build
