@@ -30,8 +30,3 @@
 - Axios untuk fetching data
 - React Intersection Observer untuk lazy loading
 
-
-```bash
-npm run build
-npm start
-```
